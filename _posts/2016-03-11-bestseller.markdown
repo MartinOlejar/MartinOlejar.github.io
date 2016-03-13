@@ -4,7 +4,6 @@ title:  "Ako napísať bestseller pre mladých dospelých"
 date:   2016-03-11
 place: 
 category: culture
-picture: 
 link: http://kultura.sme.sk/c/20115129/ako-napisat-bestseller-pre-mladych-dospelych.html
 ---
 

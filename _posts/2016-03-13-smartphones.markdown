@@ -4,7 +4,6 @@ title:  "Nový palivový článok sľubuje týždňovú výdrž smartfónov"
 date:   2016-03-13
 place: Pchohang
 category: IT
-picture: 
 link: http://mobilmania.azet.sk/clanok/113053/novy-palivovy-clanok-slubuje-tyzdnovu-vydrz-smartfonov#
 ---
 

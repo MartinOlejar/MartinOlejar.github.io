@@ -12,7 +12,7 @@ permalink: /projects/
 
 ### Bakalárska práca
 
-Jedným z projektov, ktoré aktuálne riešim, je moja bakalárska práca. V rámci nej sa snažím vytvoriť podporu malých tímov pri modelovaní softvéru. Konkrétne sa zameriavam na synchronizáciu modelov. Výsledkom tejto práce bude rozšírenie do nástroja Enterprise Architect, ktorý bude synchronizáciu modelov zabezpečovať.
+Jedným z projektov, ktoré aktuálne riešim, je moja bakalárska práca. V rámci nej sa snažím vytvoriť podporu malých tímov pri modelovaní softvéru. Konkrétne sa zameriavam na synchronizáciu modelov. Výsledkom tejto práce bude rozšírenie do nástroja [Enterprise Architect][EA], ktorý bude synchronizáciu modelov zabezpečovať.
 
 
 

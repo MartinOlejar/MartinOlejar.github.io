@@ -4,7 +4,6 @@ title:  "V čom sú posledné dva trójske kone zamerané na bankové účty in�
 date:   2016-03-10
 place: 
 category: IT
-picture: 
 link: http://www.zive.sk/clanok/113024/v-com-su-posledne-dva-trojske-kone-zamerane-na-bankove-ucty-ine
 ---
 

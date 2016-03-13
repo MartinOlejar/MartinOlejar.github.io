@@ -4,7 +4,6 @@ title:  "MS: Neskutočný Fourcade získal už štvrté zlato"
 date:   2016-03-10
 place: Oslo
 category: sport
-picture: 
 link: http://sport.aktuality.sk/c/206921/ms-neskutocny-fourcade-ziskal-uz-stvrte-zlato/
 ---
 **Štvrtý titul zo štyroch pokusov, spanilá jazda francúzskeho biatlonistu Martina Fourcadea na majstrovstvách sveta v nórskom Osle pokračuje. Líder Svetového pohára získal vo štvrtok zlato aj v individuálnych pretekoch na 20 km.**

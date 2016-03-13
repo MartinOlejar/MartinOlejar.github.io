@@ -4,7 +4,6 @@ title:  "Knižná produkcia u nás rastie, kvalita stagnuje"
 date:   2016-03-09
 place: 
 category: culture
-picture: 
 link: http://kultura.sme.sk/c/20113867/najlepsie-knihy-sa-citaju-nakoniec.html
 ---
 
