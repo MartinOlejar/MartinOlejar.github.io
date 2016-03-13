@@ -1,0 +1,1 @@
+[fiit]: http://www.fiit.stuba.sk/
