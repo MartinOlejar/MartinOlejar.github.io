@@ -1,1 +1,1 @@
-[fiit]: http://www.fiit.stuba.sk/
+[github]: https://github.com/MartinOlejar/MartinOlejar.github.io "github"

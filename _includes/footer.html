@@ -10,8 +10,7 @@
       </div>   
 
       <div class="footer-col footer-col-3">
-		<p>Dátum a čas: {{ site.time | date_to_xmlschema }}</p>
-        <p>{{ site.description }}</p>
+        <p>{{ site.description}} {{ site.time | date_to_long_string }}</p>
       </div>
     </div>
 

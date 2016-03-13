@@ -9,7 +9,7 @@
 title: Martin Olejár
 email: martin.olejar.7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webové sídlo © Martin Olejár
+  Webové sídlo © Martin Olejár, 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://martinolejar.github.io" # the base hostname & protocol for your site
 

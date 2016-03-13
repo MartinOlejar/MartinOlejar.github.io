@@ -2,5 +2,5 @@
 layout: home
 ---
 	
-### Vitajte na mojom webovom sídle!
+# Vitajte na mojom webovom sídle!
 

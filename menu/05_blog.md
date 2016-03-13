@@ -6,7 +6,7 @@ permalink: /blog/
 	
 ### Všetky zaujímavé články zoradené podľa dátumu:
 
-{% include filter.html category='date'%}
+{% include filter.html %}
 
 
 ### Zoradenie článkov podľa:

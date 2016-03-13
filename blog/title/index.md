@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
-	
-{% include filter.html category="title"%}
+
+# Články zoradené podľa názvu
+{% include filter_title.html %}
